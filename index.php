@@ -1,6 +1,6 @@
 <?php
 
-$email = $_REQUEST['name'];
+$email = $_REQUEST['email'];
 
 if(empty($email)){
 
